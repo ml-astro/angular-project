@@ -11,9 +11,6 @@ export class RecipeList {
     recipes: Recipe[] = [
         new Recipe('A test recipe', 'Just a test', 'https://picsum.photos/200'),
         new Recipe('Second recipe', 'Just another test', 'https://picsum.photos/200'),
-        new Recipe('Third recipe', 'It works!', 'https://picsum.photos/200'),
-        new Recipe('A test recipe', 'Just a test', 'https://picsum.photos/200'),
-        new Recipe('Second recipe', 'Just another test', 'https://picsum.photos/200'),
         new Recipe('Third recipe', 'It works!', 'https://picsum.photos/200')
     ];
 
